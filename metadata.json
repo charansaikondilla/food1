@@ -1,0 +1,5 @@
+{
+  "name": "Tastify Digital Menu",
+  "description": "A next-generation, phone-first digital restaurant menu. Customers can scan a QR code to instantly see daily offers and the full menu, apply smart filters, and enjoy a beautiful, intuitive interface. Menu content is easily managed by restaurant owners via Google Sheets.",
+  "requestFramePermissions": []
+}
